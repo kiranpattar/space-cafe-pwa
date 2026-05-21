@@ -3,7 +3,7 @@
   "short_name": "SpaceCafe",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#f7efe5",
+  "background_color": "#fff8ef",
   "theme_color": "#6f3b12",
   "icons": [
     {
