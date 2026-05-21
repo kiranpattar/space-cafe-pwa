@@ -1,14 +1,24 @@
 # Space Cafe PWA
 
-## Install
+A React PWA cafe ordering prototype.
+
+## Features
+
+- Customer login/register form
+- Menu screen
+- Cart quantity logic
+- Payment simulation
+- Customer token generation
+- Admin/kitchen token generation
+- Order status tracking
+- Food collection flow
+- Review sharing
+- No QR code dependency
+
+## Run locally
 
 ```bash
 npm install
-```
-
-## Run
-
-```bash
 npm run dev
 ```
 
